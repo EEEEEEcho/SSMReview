@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+    <bean id="student" class="com.echo.pojo.Student">
+        <property name="name" value="孟石"></property>
+        <property name="address" ref="address"></property>
+        <property name="books">
+            <array>
+                <value>三国演义</value>
+                <value>水浒传</value>
+                <value>西游记</value>
+                <value>红楼梦</value>
+            </array>
+        </property>
+        <property name="hobbies">
+            <list>
+                <value>抽烟</value>
+                <value>喝酒</value>
+                <value>烫头</value>
+            </list>
+        </property>
+        <property name="card">
+            <map>
+                <entry key="idCard" value="1301301300130"></entry>
+                <entry key="bankCard" value="10151135799347"></entry>
+            </map>
+        </property>
+        <property name="games">
+            <set>
+                <value>火影忍者</value>
+                <value>DNF</value>
+            </set>
+        </property>
+        <property name="wife">
+            <null></null>
+        </property>
+        <property name="info">
+            <props>
+                <prop key="学号">2020111026</prop>
+                <prop key="金额">50</prop>
+            </props>
+        </property>
+    </bean>
+    <bean id="address" class="com.echo.pojo.Address">
+        <property name="address" value="石家庄"></property>
+    </bean>
+
+</beans>

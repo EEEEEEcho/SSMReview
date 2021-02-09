@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+        https://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/context
+        https://www.springframework.org/schema/context/spring-context.xsd">
+<context:annotation-config/>
+<!--    <bean id="cat" class="com.echo.pojo.Cat"></bean>-->
+<!--    <bean id="dog" class="com.echo.pojo.Dog"></bean>-->
+<!--    &lt;!&ndash;    autowire byName会自动在容器上下文中查找和自己对象set方法后面的值对应的BeanID&ndash;&gt;-->
+<!--    <bean id="person" class="com.echo.pojo.Person" autowire="byName">-->
+<!--        <property name="name" value="Echo"></property>-->
+<!--    </bean>-->
+<!--    &lt;!&ndash;    autowire byName会自动在容器上下文中查找和自己对象属性相同的BeanID&ndash;&gt;-->
+<!--    <bean id="person2" class="com.echo.pojo.Person" autowire="byType">-->
+<!--        <property name="name" value="Echo"></property>-->
+<!--    </bean>-->
+    <bean id="cat" class="com.echo.pojo.Cat"/>
+    <bean id="dog" class="com.echo.pojo.Dog"/>
+    <bean id="cat1" class="com.echo.pojo.Cat"/>
+    <bean id="dog1" class="com.echo.pojo.Dog"/>
+    <bean id="person" class="com.echo.pojo.Person"/>
+
+    <bean id="bag" class="com.echo.pojo.Bag" />
+    <bean id="pen" class="com.echo.pojo.Pen" />
+    <bean id="student" class="com.echo.pojo.Student" />
+</beans>

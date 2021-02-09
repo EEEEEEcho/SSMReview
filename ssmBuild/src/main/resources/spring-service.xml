@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:mvc="http://www.springframework.org/schema/mvc"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+       http://www.springframework.org/schema/beans/spring-beans.xsd
+       http://www.springframework.org/schema/context
+       http://www.springframework.org/schema/context/spring-context.xsd
+       http://www.springframework.org/schema/mvc
+       http://www.springframework.org/schema/mvc/spring-mvc.xsd
+       ">
+<!--    0.引入dao的配置文件,也可以使用IDEA帮我们实现,也可以全部导入到applicationContext.xml中-->
+<!--    <import resource="classpath:spring-dao.xml" />-->
+
+<!--    1.扫描service中的包-->
+    <context:component-scan base-package="com.echo.service.impl"/>
+<!--    2.将我们所有的业务类，注入到Spring中，可以通过配置，也可以通过注解实现-->
+    <bean id="bookServiceImpl" class="com.echo.service.impl.BookServiceImpl">
+        <property name="bookMapper" ref="bookMapper"/>
+    </bean>
+<!--    3.spring声明式事务-->
+    <bean id="dataSourceTransactionManager" class="org.springframework.jdbc.datasource.DataSourceTransactionManager">
+<!--        注入数据源-->
+        <property name="dataSource" ref="datasource" />
+    </bean>
+<!--    4.aop事务支持-->
+
+</beans>

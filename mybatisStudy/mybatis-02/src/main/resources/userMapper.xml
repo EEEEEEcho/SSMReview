@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.echo.dao.UserDao">
+<!--   id：接口中的方法名。resultType:返回值类型 -->
+    <select id="getUserList" resultMap="userResultMap">
+        select * from mybatis.user;
+    </select>
+    <resultMap id="userResultMap" type="User">
+        <id property="id" column="id"></id>
+        <result property="userName" column="name"></result>
+        <result property="passWord" column="pwd"></result>
+    </resultMap>
+    <select id="getUserById" resultMap="userResultMap" parameterType="Integer">
+        select * from mybatis.user where id = #{id};
+    </select>
+    
+    <insert id="insertUser2" parameterType="User">
+        insert into mybatis.user(id,name,pwd) values (#{id},#{username},#{password});
+    </insert>
+
+
+
+    <update id="updateUser" parameterType="com.echo.pojo.User">
+        update mybatis.user set name=#{userName},pwd=#{passWord} where id = #{id};
+    </update>
+
+    <delete id="deleteUser" parameterType="Integer">
+        delete from mybatis.user where id = #{id};
+    </delete>
+
+    <!--    万能Map，用来解决某个类中所定义的属性过多的情况-->
+    <insert id="insertUser" parameterType="map">
+        insert into mybatis.user(id,name,pwd) values (#{userid},#{username},#{password});
+    </insert>
+    <select id="getUserById2" resultMap="userResultMap" parameterType="map">
+        select * from mybatis.user where id = #{userid} and name = #{username};
+    </select>
+<!--    模糊查询-->
+    <select id="selectByLike" resultMap="userResultMap" parameterType="String">
+        select * from mybatis.user where name like "%"#{name}"%";
+    </select>
+</mapper>

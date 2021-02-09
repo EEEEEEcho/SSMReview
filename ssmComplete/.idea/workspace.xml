@@ -1,0 +1,1370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ssmComplete:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f05e4565-6df7-44b5-884b-3a20404acb6c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../C Project/.idea/C Project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C Project/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C Project/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C Project/cliontest.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Clion Project/.idea/Clion Project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Clion Project/SocketServer.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Clion Project/SocketServer.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaEight/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaEight/.idea/JavaEight.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaEight/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaEight/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaEight/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaEight/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaEight/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaEight/.idea/libraries/Maven__org_springframework_spring_aop_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaEight/.idea/libraries/Maven__org_springframework_spring_beans_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaEight/.idea/libraries/Maven__org_springframework_spring_context_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaEight/.idea/libraries/Maven__org_springframework_spring_core_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaEight/.idea/libraries/Maven__org_springframework_spring_expression_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaEight/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaEight/.idea/libraries/Maven__org_springframework_spring_web_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaEight/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaEight/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaEight/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaEight/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaEight/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaEight/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/.idea/artifacts/springmvc_01_servlet_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/.idea/artifacts/springmvc_02_hellomvc_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/.idea/artifacts/springmvc_03_hellomvc2_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/.idea/artifacts/springmvc_04_anno_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/.idea/artifacts/springmvc_05_controller_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/.idea/artifacts/springmvc_06_params_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/.idea/artifacts/springmvc_07_encoding_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/.idea/artifacts/springmvc_08_json_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/.idea/artifacts/springmvc_09_ajax_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/SpringMvcStudy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/springmvc-01-servlet/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/springmvc-01-servlet/springmvc-01-servlet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/springmvc-01-servlet/src/main/java/com/echo/servlet/HelloServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/springmvc-01-servlet/web/WEB-INF/jsp/test.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/springmvc-01-servlet/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/springmvc-01-servlet/web/form.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/springmvc-02-hellomvc/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/springmvc-02-hellomvc/springmvc-02-hellomvc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/springmvc-02-hellomvc/src/main/java/com/echo/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/springmvc-02-hellomvc/src/main/resources/springmvc-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/springmvc-02-hellomvc/web/WEB-INF/jsp/hello.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/springmvc-02-hellomvc/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/springmvc-03-hellomvc2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/springmvc-03-hellomvc2/springmvc-03-hellomvc2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/springmvc-03-hellomvc2/src/main/java/com/echo/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/springmvc-03-hellomvc2/src/main/resources/springmvc-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/springmvc-03-hellomvc2/web/WEB-INF/jsp/test.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/springmvc-03-hellomvc2/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/springmvc-04-anno/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/springmvc-04-anno/springmvc-04-anno.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/springmvc-04-anno/src/main/java/com/echo/controller/ControllerTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/springmvc-04-anno/src/main/java/com/echo/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/springmvc-04-anno/src/main/resources/springmvc-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/springmvc-04-anno/web/WEB-INF/jsp/hello.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/springmvc-04-anno/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/springmvc-05-controller/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/springmvc-05-controller/springmvc-05-controller.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/springmvc-05-controller/src/main/java/com/echo/controller/ControllerTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/springmvc-05-controller/src/main/java/com/echo/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/springmvc-05-controller/src/main/java/com/echo/controller/ModelTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/springmvc-05-controller/src/main/java/com/echo/controller/RestfulController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/springmvc-05-controller/src/main/resources/springmvc-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/springmvc-05-controller/web/WEB-INF/jsp/hello.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/springmvc-05-controller/web/WEB-INF/jsp/test.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/springmvc-05-controller/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/springmvc-05-controller/web/a.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/springmvc-06-params/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/springmvc-06-params/springmvc-06-params.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/springmvc-06-params/src/main/java/com/echo/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/springmvc-06-params/src/main/java/com/echo/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/springmvc-06-params/src/main/resources/springmvc-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/springmvc-06-params/web/WEB-INF/jsp/test.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/springmvc-06-params/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/springmvc-06-params/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/springmvc-07-encoding/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/springmvc-07-encoding/springmvc-07-encoding.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/springmvc-07-encoding/src/main/java/com/echo/controller/EncodingController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/springmvc-07-encoding/src/main/java/com/echo/filter/EncodingFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/springmvc-07-encoding/src/main/resources/springmvc-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/springmvc-07-encoding/web/WEB-INF/jsp/test.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/springmvc-07-encoding/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/springmvc-07-encoding/web/a.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/springmvc-08-json/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/springmvc-08-json/springmvc-08-json.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/springmvc-08-json/src/main/java/com/echo/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/springmvc-08-json/src/main/java/com/echo/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/springmvc-08-json/src/main/java/com/echo/utils/JsonUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/springmvc-08-json/src/main/resources/springmvc-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/springmvc-08-json/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/springmvc-08-json/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/springmvc-09-ajax/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/springmvc-09-ajax/springmvc-09-ajax.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/springmvc-09-ajax/src/main/java/com/echo/controller/AjaxController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/springmvc-09-ajax/src/main/java/com/echo/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/springmvc-09-ajax/src/main/resources/spring-mvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/springmvc-09-ajax/web/WEB-INF/jsp/test.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/springmvc-09-ajax/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/springmvc-09-ajax/web/hello.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/springmvc-09-ajax/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMvcStudy/springmvc-09-ajax/web/js/jquery-3.5.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatisStudy/mybatis-01/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatisStudy/mybatis-01/src/main/java/com/echo/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatisStudy/mybatis-01/src/main/java/com/echo/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatisStudy/mybatis-01/src/main/java/com/echo/util/MyBatisUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatisStudy/mybatis-01/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatisStudy/mybatis-01/src/main/resources/userMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatisStudy/mybatis-01/src/test/java/com/echo/dao/UserDaoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatisStudy/mybatis-02/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatisStudy/mybatis-02/src/main/java/com/echo/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatisStudy/mybatis-02/src/main/java/com/echo/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatisStudy/mybatis-02/src/main/java/com/echo/util/MyBatisUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatisStudy/mybatis-02/src/main/resources/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatisStudy/mybatis-02/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatisStudy/mybatis-02/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatisStudy/mybatis-02/src/main/resources/userMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatisStudy/mybatis-02/src/test/java/com/echo/dao/UserDaoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatisStudy/mybatis-03/mybatis-03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatisStudy/mybatis-03/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatisStudy/mybatis-03/src/main/java/echo/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatisStudy/mybatis-03/src/main/java/echo/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatisStudy/mybatis-03/src/main/java/echo/util/MyBatisUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatisStudy/mybatis-03/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatisStudy/mybatis-03/src/main/resources/userMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatisStudy/mybatis-03/src/test/java/dao/UserDaoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatisStudy/mybatis-04/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatisStudy/mybatis-04/src/main/java/echo/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatisStudy/mybatis-04/src/main/java/echo/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatisStudy/mybatis-04/src/main/java/echo/util/MyBatisUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatisStudy/mybatis-04/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatisStudy/mybatis-04/src/test/java/UserDaoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatisStudy/mybatis-05/mybatis-05.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatisStudy/mybatis-05/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatisStudy/mybatis-05/src/main/java/com/echo/mapper/StudentMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatisStudy/mybatis-05/src/main/java/com/echo/mapper/TeacherMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatisStudy/mybatis-05/src/main/java/com/echo/pojo/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatisStudy/mybatis-05/src/main/java/com/echo/pojo/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatisStudy/mybatis-05/src/main/java/com/echo/util/MyBatisUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatisStudy/mybatis-05/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatisStudy/mybatis-05/src/main/resources/studentMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatisStudy/mybatis-05/src/main/resources/teacherMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatisStudy/mybatis-05/src/test/java/MyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatisStudy/mybatis-06/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatisStudy/mybatis-06/src/main/java/com/echo/mapper/StudentMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatisStudy/mybatis-06/src/main/java/com/echo/mapper/TeacherMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatisStudy/mybatis-06/src/main/java/com/echo/pojo/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatisStudy/mybatis-06/src/main/java/com/echo/pojo/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatisStudy/mybatis-06/src/main/java/com/echo/util/MyBatisUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatisStudy/mybatis-06/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatisStudy/mybatis-06/src/main/resources/studentMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatisStudy/mybatis-06/src/main/resources/teacherMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatisStudy/mybatis-06/src/test/java/MyBatisTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatisStudy/mybatis-07/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatisStudy/mybatis-07/src/main/java/com/echo/mapper/BlogMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatisStudy/mybatis-07/src/main/java/com/echo/pojo/Blog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatisStudy/mybatis-07/src/main/java/com/echo/util/IDutil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatisStudy/mybatis-07/src/main/java/com/echo/util/MyBatisUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatisStudy/mybatis-07/src/main/resources/blogMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatisStudy/mybatis-07/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatisStudy/mybatis-07/src/test/java/BlogTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatisStudy/mybatis-08/mybatis-08.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatisStudy/mybatis-08/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatisStudy/mybatis-08/src/main/java/com/echo/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatisStudy/mybatis-08/src/main/java/com/echo/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatisStudy/mybatis-08/src/main/java/com/echo/util/MyBatisUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatisStudy/mybatis-08/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatisStudy/mybatis-08/src/main/resources/user-mapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatisStudy/mybatis-08/src/test/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatisStudy/mybatis-09/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatisStudy/mybatis-09/src/main/java/com/echo/mapper/TaskMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatisStudy/mybatis-09/src/main/java/com/echo/pojo/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatisStudy/mybatis-09/src/main/java/com/echo/util/MyBatisUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatisStudy/mybatis-09/src/main/resources/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatisStudy/mybatis-09/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatisStudy/mybatis-09/src/main/resources/task-mapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatisStudy/mybatis-09/src/test/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybatisStudy/mybatisStudy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-01-ioc1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-01-ioc1/src/main/java/com/echo/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-01-ioc1/src/main/java/com/echo/dao/UserDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-01-ioc1/src/main/java/com/echo/dao/UserDaoMySqlImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-01-ioc1/src/main/java/com/echo/dao/UserDaoOrcleImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-01-ioc1/src/main/java/com/echo/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-01-ioc1/src/main/java/com/echo/service/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-01-ioc1/src/main/resources/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-01-ioc1/src/test/java/MyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-02-hellospring/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-02-hellospring/src/main/java/com/echo/pojo/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-02-hellospring/src/main/resources/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-02-hellospring/src/test/java/MyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-03-ioc2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-03-ioc2/src/main/java/com/echo/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-03-ioc2/src/main/resources/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-03-ioc2/src/main/resources/beans1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-03-ioc2/src/main/resources/beans2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-03-ioc2/src/test/java/MyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-04-di/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-04-di/src/main/java/com/echo/pojo/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-04-di/src/main/java/com/echo/pojo/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-04-di/src/main/java/com/echo/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-04-di/src/main/resources/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-04-di/src/main/resources/userBean.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-04-di/src/test/java/MyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-05-autowire/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-05-autowire/src/main/java/com/echo/pojo/Bag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-05-autowire/src/main/java/com/echo/pojo/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-05-autowire/src/main/java/com/echo/pojo/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-05-autowire/src/main/java/com/echo/pojo/Pen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-05-autowire/src/main/java/com/echo/pojo/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-05-autowire/src/main/java/com/echo/pojo/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-05-autowire/src/main/resources/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-05-autowire/src/test/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-06-anno/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-06-anno/src/main/java/com/echo/controller/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-06-anno/src/main/java/com/echo/controller/Configuration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-06-anno/src/main/java/com/echo/controller/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-06-anno/src/main/java/com/echo/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-06-anno/src/main/java/com/echo/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-06-anno/src/main/java/com/echo/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-06-anno/src/main/java/com/echo/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-06-anno/src/main/resources/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-06-anno/src/test/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-07-javaconfig/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-07-javaconfig/src/main/java/com/echo/config/MyConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-07-javaconfig/src/main/java/com/echo/config/MyConfig2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-07-javaconfig/src/main/java/com/echo/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-07-javaconfig/src/test/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-08-daili/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-08-daili/spring-08-daili.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-08-daili/src/main/java/com/echo/demo01/BuySth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-08-daili/src/main/java/com/echo/demo01/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-08-daili/src/main/java/com/echo/demo01/GirlFriend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-08-daili/src/main/java/com/echo/demo01/Host.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-08-daili/src/main/java/com/echo/demo01/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-08-daili/src/main/java/com/echo/demo01/Me.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-08-daili/src/main/java/com/echo/demo01/Proxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-08-daili/src/main/java/com/echo/demo01/Rent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-08-daili/src/main/java/com/echo/demo02/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-08-daili/src/main/java/com/echo/demo02/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-08-daili/src/main/java/com/echo/demo02/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-08-daili/src/main/java/com/echo/demo02/UserServiceProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-08-daili/src/main/java/com/echo/demo03/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-08-daili/src/main/java/com/echo/demo03/Host.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-08-daili/src/main/java/com/echo/demo03/ProxyInvocationHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-08-daili/src/main/java/com/echo/demo03/Rent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-08-daili/src/main/java/com/echo/demo04/BuySth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-08-daili/src/main/java/com/echo/demo04/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-08-daili/src/main/java/com/echo/demo04/Me.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-08-daili/src/main/java/com/echo/demo04/ProxyInvocationHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-09-aop/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-09-aop/spring-09-aop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-09-aop/src/main/java/com/diy/AnnotationPointCut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-09-aop/src/main/java/com/diy/DiyPointCut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-09-aop/src/main/java/com/diy/DiyTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-09-aop/src/main/java/com/echo/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-09-aop/src/main/java/com/echo/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-09-aop/src/main/java/com/log/AfterLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-09-aop/src/main/java/com/log/BeforeLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-09-aop/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-09-aop/src/test/java/com/echo/MyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-10-mybatis/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-10-mybatis/spring-10-mybatis.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-10-mybatis/src/main/java/com/echo/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-10-mybatis/src/main/java/com/echo/mapper/UserMapperImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-10-mybatis/src/main/java/com/echo/mapper/UserMapperImpl2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-10-mybatis/src/main/java/com/echo/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-10-mybatis/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-10-mybatis/src/main/resources/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-10-mybatis/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-10-mybatis/src/main/resources/spring-mybatis.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-10-mybatis/src/test/java/com/echo/MyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-11-transaction/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-11-transaction/spring-11-transaction.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-11-transaction/src/main/java/com/echo/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-11-transaction/src/main/java/com/echo/mapper/UserMapperImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-11-transaction/src/main/java/com/echo/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-11-transaction/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-11-transaction/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-11-transaction/src/main/resources/spring-mybatis.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-11-transaction/src/main/resources/userMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/spring-11-transaction/src/test/java/MyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/springStudy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssmBuild/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssmBuild/.idea/artifacts/ssmBuild_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssmBuild/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssmBuild/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssmBuild/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssmBuild/.idea/dataSources/189de8c1-3060-4acc-a4ce-63c0bcb1329c.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssmBuild/.idea/dataSources/189de8c1-3060-4acc-a4ce-63c0bcb1329c/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssmBuild/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssmBuild/.idea/libraries/Spring_5_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssmBuild/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssmBuild/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssmBuild/src/main/java/com/echo/controller/BookController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssmBuild/src/main/java/com/echo/dao/BookMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssmBuild/src/main/java/com/echo/pojo/Books.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssmBuild/src/main/java/com/echo/service/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssmBuild/src/main/java/com/echo/service/impl/BookServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssmBuild/src/main/resources/BooksMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssmBuild/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssmBuild/src/main/resources/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssmBuild/src/main/resources/mybatis-conf.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssmBuild/src/main/resources/spring-dao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssmBuild/src/main/resources/spring-mvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssmBuild/src/main/resources/spring-service.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssmBuild/src/test/java/MyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssmBuild/ssmBuild.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssmBuild/web/WEB-INF/jsp/allBook.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssmBuild/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssmBuild/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/ssmComplete_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmComplete_war_exploded/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmComplete_war_exploded/WEB-INF/lib/jsp-api-2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmComplete_war_exploded/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmComplete_war_exploded/WEB-INF/lib/servlet-api-2.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmComplete_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ssmComplete_war_exploded/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/echo/controller/BookController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/echo/dao/BookMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/echo/pojo/Books.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/echo/service/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/echo/service/impl/BookServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/BooksMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mybatis-conf.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/spring-dao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/spring-mvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/spring-service.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssmComplete.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/jsp/addBook.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/jsp/allBook.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/jsp/updateBook.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringStudy/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringStudy/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringStudy/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringStudy/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringStudy/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringStudy/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringStudy/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringStudyProject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringStudyProject/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringStudyProject/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringStudyProject/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringStudyProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringStudyProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringStudyProject/SpringStudy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringStudyProject/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringStudyProject/src/main/java/com/enjoy/CopyFileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringStudyProject/src/main/java/com/enjoy/CreatePDF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringStudyProject/src/main/java/com/enjoy/ExcelTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringStudyProject/src/main/java/com/enjoy/FileDeleteTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringStudyProject/src/main/java/com/enjoy/MergeFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringStudyProject/src/main/java/com/enjoy/PDFtest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringStudyProject/src/main/java/com/enjoy/PdfDeleteTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringStudyProject/src/main/java/com/enjoy/WriteHtmlTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringStudyProject/src/main/java/com/enjoy/cap1/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringStudyProject/src/main/java/com/enjoy/cap1/MainTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringStudyProject/src/main/java/com/enjoy/cap1/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringStudyProject/src/main/java/com/enjoy/cap2/config/Cap2MainConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringStudyProject/src/main/java/com/enjoy/cap2/controller/OrderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringStudyProject/src/main/java/com/enjoy/cap2/dao/OrderDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringStudyProject/src/main/java/com/enjoy/cap2/service/OrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringStudyProject/src/main/java/com/enjoy/config/MainConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringStudyProject/src/main/resources/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringStudyProject/src/test/java/com/enjoy/cp2test/Cap2Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringStudyProject/target/classes/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringStudyProject/target/classes/com/enjoy/cap1/MainTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringStudyProject/target/classes/com/enjoy/cap1/MainTest2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringStudyProject/target/classes/com/enjoy/cap1/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringStudyProject/target/classes/com/enjoy/cap2/config/Cap2MainConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringStudyProject/target/classes/com/enjoy/cap2/controller/OrderController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringStudyProject/target/classes/com/enjoy/cap2/dao/OrderDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringStudyProject/target/classes/com/enjoy/cap2/service/OrderService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringStudyProject/target/classes/com/enjoy/config/MainConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringStudyProject/target/test-classes/com/enjoy/cp2test/Cap2Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../YSM9/YSM9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../deal_zip (2).zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../deal_zip/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../deal_zip/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../deal_zip/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../deal_zip/.idea/deal_zip.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../deal_zip/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../deal_zip/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../deal_zip/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../deal_zip/daeDealResult" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../deal_zip/daeResult" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../excel2pdf/excel2pdf.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaSETest/javaSETest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaSETest/out/production/javaSETest/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaSETest/out/production/javaSETest/.idea/artifacts/javaSETest_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaSETest/out/production/javaSETest/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaSETest/out/production/javaSETest/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaSETest/out/production/javaSETest/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaSETest/out/production/javaSETest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaSETest/out/production/javaSETest/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaSETest/out/production/javaSETest/javaSETest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaSETest/out/production/javaSETest/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaSETest/out/production/javaSETest/src/com/dae/result/beans/DNSResolverType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaSETest/out/production/javaSETest/src/com/dae/result/dao/MongoDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaSETest/out/production/javaSETest/src/com/dae/result/dao/MongoDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaSETest/out/production/javaSETest/src/com/dae/result/dao/MysqlDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaSETest/out/production/javaSETest/src/com/dae/result/dao/RedisDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaSETest/out/production/javaSETest/src/com/dae/result/dao/TestDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaSETest/out/production/javaSETest/src/com/dae/result/handler/DealResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaSETest/out/production/javaSETest/src/com/dae/result/handler/FileEnter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaSETest/out/production/javaSETest/src/com/dae/result/handler/TransferNetInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaSETest/out/production/javaSETest/src/com/dae/result/utils/JDBCUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaSETest/out/production/javaSETest/src/com/dae/result/utils/JedisPoolUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaSETest/out/production/javaSETest/src/com/dae/result/utils/LogUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaSETest/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaSETest/src/com/dae/result/beans/DNSResolverType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaSETest/src/com/dae/result/dao/MongoDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaSETest/src/com/dae/result/dao/MongoDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaSETest/src/com/dae/result/dao/MysqlDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaSETest/src/com/dae/result/dao/RedisDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaSETest/src/com/dae/result/dao/TestDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaSETest/src/com/dae/result/handler/DealResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaSETest/src/com/dae/result/handler/FileEnter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaSETest/src/com/dae/result/handler/TransferNetInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaSETest/src/com/dae/result/utils/JDBCUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaSETest/src/com/dae/result/utils/JedisPoolUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaSETest/src/com/dae/result/utils/LogUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/.idea/leyou-portal.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/cart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/copyright.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/css/material.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/css/pages-JD-index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/css/pages-addressList.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/css/pages-cart.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/css/pages-cooperation.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/css/pages-getOrderInfo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/css/pages-home.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/css/pages-index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/css/pages-item.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/css/pages-list.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/css/pages-login-manage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/css/pages-login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/css/pages-myOrder.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/css/pages-pay.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/css/pages-payfail.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/css/pages-paysuccess.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/css/pages-register.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/css/pages-sampling.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/css/pages-seckill-index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/css/pages-seckill-item.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/css/pages-seckillOrder.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/css/pages-shop.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/css/pages-shoplogin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/css/pages-success-cart.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/css/pages-weixinpay.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/css/pages-zoom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/css/vuetify.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/css/webbase.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/css/widget-cartPanelView.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/css/widget-jquery.autocomplete.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/fonts/icon-moon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/fonts/icon-moon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/fonts/icon-moon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/fonts/icon-moon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/fonts/icon-pc.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/fonts/icon-pc.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/fonts/icon-pc.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/fonts/icon-pc.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/fonts/icon-tb.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/fonts/icon-tb.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/fonts/icon-tb.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/fonts/icon-tb.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/fonts/icon-touch.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/fonts/icon-touch.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/fonts/icon-touch.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/fonts/icon-touch.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/foot.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/getOrderInfo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/home-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/home-order-evaluate.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/home-order-pay.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/home-order-receive.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/home-order-send.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/home-orderDetail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/home-person-collect.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/home-person-footmark.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/home-setting-address-complete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/home-setting-address-phone.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/home-setting-address.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/home-setting-info.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/home-setting-safe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/57b51ea9Nb862ca5e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/Logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/b1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/b2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/b3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/buy001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/buy002.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/buy01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/car.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/clock.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/code.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/cooperation_banner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/down-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/dp01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/dp02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/dp03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/dp04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/empty_heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/erweima.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/fail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/gocart.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/gocart01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/gotop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/icon-red.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/intro01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/intro02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/intro03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/itemlike01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/itemlike02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/itemlike03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/itemlike04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/itemlike05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/itemlike06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/l-m01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/list.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/list.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/login-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/manage-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/mobile01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/mobile02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/mobile03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/mobile04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/mobile05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/mobile06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/part01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/part02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/part03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/pay1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/pay10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/pay11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/pay12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/pay13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/pay14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/pay15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/pay16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/pay17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/pay18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/pay19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/pay2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/pay20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/pay21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/pay22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/pay3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/pay4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/pay5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/phone-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/phone01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/phone02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/phone03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/phone04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/phone05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/phone06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/phone07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/phone08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/phone09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/phone10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/phone11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/phone12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/phone13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/phone14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/photo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/photo_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/s1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/s2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/s3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/sampling_head.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/seckillbg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/shi_heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/shop-intro.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/shop-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/shop-part.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/t.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/title_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/_/y24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/account.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/ad.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/ad1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/ali.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/assets/img/itemlike/itemlike01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/assets/img/itemlike/itemlike02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/assets/img/itemlike/itemlike03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/assets/img/itemlike/itemlike04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/assets/img/itemlike/itemlike05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/assets/img/itemlike/itemlike06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/assets/img/pay/fail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/assets/img/pay/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/assets/img/pay/pay1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/assets/img/pay/pay10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/assets/img/pay/pay11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/assets/img/pay/pay12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/assets/img/pay/pay13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/assets/img/pay/pay14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/assets/img/pay/pay15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/assets/img/pay/pay16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/assets/img/pay/pay17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/assets/img/pay/pay18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/assets/img/pay/pay19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/assets/img/pay/pay2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/assets/img/pay/pay20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/assets/img/pay/pay21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/assets/img/pay/pay22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/assets/img/pay/pay3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/assets/img/pay/pay4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/assets/img/pay/pay5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/assets/img/pay/right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/assets/img/phone/dp01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/assets/img/phone/dp02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/assets/img/phone/dp03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/assets/img/phone/dp04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/assets/img/phone/intro01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/assets/img/phone/intro02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/assets/img/phone/intro03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/assets/img/phone/l-m01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/assets/img/phone/mobile01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/assets/img/phone/mobile02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/assets/img/phone/mobile03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/assets/img/phone/mobile04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/assets/img/phone/mobile05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/assets/img/phone/mobile06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/assets/img/phone/part01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/assets/img/phone/part02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/assets/img/phone/part03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/assets/img/phone/phone01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/assets/img/phone/phone02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/assets/img/phone/phone03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/assets/img/phone/phone04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/assets/img/phone/phone05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/assets/img/phone/phone06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/assets/img/phone/phone07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/assets/img/phone/phone08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/assets/img/phone/phone09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/assets/img/phone/phone10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/assets/img/phone/phone11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/assets/img/phone/phone12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/assets/img/phone/phone13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/assets/img/phone/phone14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/assets/img/success-cart/buy001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/assets/img/success-cart/buy002.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/assets/img/success-cart/buy01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/assets/img/success-cart/gocart.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/assets/img/success-cart/gocart01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/assets/img/zoom/b1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/assets/img/zoom/b2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/assets/img/zoom/b3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/assets/img/zoom/s1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/assets/img/zoom/s2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/assets/img/zoom/s3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/banner1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/banner1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/banner2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/banner3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/banner3x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/banner4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/barrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/brand01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/brand02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/brand03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/brand04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/brand05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/brand06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/brand07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/brand08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/brand09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/brand10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/brand11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/brand12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/brand13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/brand_03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/brand_05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/brand_07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/brand_09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/brand_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/brand_13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/brand_15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/brand_17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/brand_19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/brand_21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/cartPanelViewIcons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/choosed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/clock.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/delete.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/duihuan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/erweima.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/floor-1-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/floor-1-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/floor-1-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/floor-1-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/floor-1-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/floor-1-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/floor-1-b01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/floor-1-b02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/floor-1-b03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/goods.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/icon-red.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/interest01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/interest02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/interest03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/interest04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/interest05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/interest06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/like1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/like2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/like3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/like4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/like_01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/like_02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/like_03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/like_04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/like_05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/like_06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/linker.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/lock.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/loginbg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/mod-list.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/phone-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/photo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/qq.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/quan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/sina.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/today01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/today02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/today03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/today04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/weixin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/wx_cz.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/img/zoom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/item.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/items/4/5/145.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/items/8/1/81.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/js/axios.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/js/common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/js/czFunction.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/js/model/cartModel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/js/pages/addressList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/js/pages/city-picker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/js/pages/getOrderInfo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/js/pages/home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/js/pages/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/js/pages/jquery.slideunlock.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/js/pages/login-manage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/js/pages/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/js/pages/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/js/pages/person-collect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/js/pages/person-footmark.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/js/pages/register.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/js/pages/seckill-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/js/pages/shop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/js/pages/shoplogin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/js/pages/shortcut.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/js/pages/sm-city-picker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/js/pages/top.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/js/plugins/birthday/birthday.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/js/plugins/citypicker/distpicker.data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/js/plugins/citypicker/distpicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/js/plugins/jquery-placeholder/jquery.placeholder.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/js/plugins/jquery.easing/jquery.easing.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/js/plugins/jquery.jqzoom/jquery.jqzoom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/js/plugins/jquery.jqzoom/zoom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/js/plugins/jquery/jquery.cookie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/js/plugins/jquery/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/js/plugins/qs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/js/plugins/sui/sui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/js/plugins/upload/uploadPreview.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/js/validate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/js/vue/vue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/js/vue/vue.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/js/vue/vuetify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/js/widget/cartPanelView.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/js/widget/jquery.autocomplete.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/js/widget/nav-portal-top.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/js/widget/nav.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/pay.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/payfail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/paysuccess.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/plugins/cssgrids/cssgrids-min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/plugins/jquery-placeholder/jquery.placeholder.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/plugins/jquery.easing/jquery.easing.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/plugins/jquery.jqzoom/jquery.jqzoom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/plugins/jquery.jqzoom/zoom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/plugins/jquery/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/plugins/normalize/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/plugins/sui/sui-append.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/plugins/sui/sui.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/plugins/sui/sui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/search.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/seckill-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/seckill-item.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/shortcut.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/side.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/success-cart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/success.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../leyou-portal/top.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nettySocket/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nettySocket/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nettySocket/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nettySocket/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nettySocket/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nettySocket/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nettySocket/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nettySocket/nettySocket.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nettySocket/src/main/java/com/echo/client/EchoClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nettySocket/src/main/java/com/echo/client/handler/EchoClientHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nettySocket/src/main/java/com/echo/server/EchoServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nettySocket/src/main/java/com/echo/server/handler/DecryptHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nettySocket/src/main/java/com/echo/server/handler/EncryptHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nettySocket/src/main/java/com/echo/server/handler/HandShakeHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nettySocket/src/main/java/com/echo/server/handler/IdentityAuthenticationHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nettyStudy/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nettyStudy/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nettyStudy/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nettyStudy/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nettyStudy/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nettyStudy/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nettyStudy/nettyStudy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nettyStudy/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nettyTest/nettyTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nettyTest/src/main/java/com/echo/ClientHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nettyTest/src/main/java/com/echo/MyClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nettyTest/src/main/java/com/echo/MyClientHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nettyTest/src/main/java/com/echo/MyClientInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nettyTest/src/main/java/com/echo/MyServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nettyTest/src/main/java/com/echo/MyServerHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nettyTest/src/main/java/com/echo/MyServerInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nettyTest/src/main/java/com/echo/nettyPractice/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nettyTest/src/main/java/com/echo/nettyPractice/chapter2/EchoClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nettyTest/src/main/java/com/echo/nettyPractice/chapter2/EchoClientHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nettyTest/src/main/java/com/echo/nettyPractice/chapter2/EchoServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nettyTest/src/main/java/com/echo/nettyPractice/chapter2/EchoServerHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nettyTest/src/main/java/com/echo/nettyPractice/nettyTest/EchoServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nettyTest/src/main/java/com/echo/nettyPractice/nettyTest/EchoServerHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nettyTest/src/main/java/com/echo/test2/AppNettyServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nettyTest/src/main/java/com/echo/test2/NettyCommandHandle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nettyTest/src/main/java/com/echo/test2/NettyCommandServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nettyTest/src/main/java/com/echo/timeServer/TimeServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nettyTest/src/main/java/com/echo/timeServer/TimeServerHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pyurl/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pyurl/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pyurl/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pyurl/.idea/pyurl.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pyurl/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pyurl/logs/do_alexa.log_2020-12-08-19" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pyurl/logs/do_alexa.log_2020-12-09-13" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pyurl/logs/do_alexa.log_2020-12-09-14" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pyurl/logs/do_alexa.log_2020-12-09-15" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pyurl/logs/do_alexa.log_2020-12-10-09" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pyurl/logs/do_alexa.log_2020-12-10-10" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pyurl/logs/do_axxnr.log_2020-12-08-19" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pyurl/logs/do_axxnr.log_2020-12-09-13" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pyurl/logs/do_axxnr.log_2020-12-09-14" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pyurl/logs/do_axxnr.log_2020-12-09-15" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pyurl/logs/do_axxnr.log_2020-12-10-09" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pyurl/logs/do_axxnr.log_2020-12-10-10" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pyurl/logs/do_task_timer.log_2020-12-08-19" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pyurl/logs/do_task_timer.log_2020-12-09-13" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pyurl/logs/do_task_timer.log_2020-12-09-14" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pyurl/logs/do_task_timer.log_2020-12-09-15" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pyurl/logs/do_task_timer.log_2020-12-09-16" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pyurl/logs/do_task_timer.log_2020-12-10-09" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pyurl/logs/do_task_timer.log_2020-12-10-10" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pyurl/logs/main.log_2020-12-09-15" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pyurl/logs/main.log_2020-12-09-16" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pyurl/logs/main.log_2020-12-09-17" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pyurl/logs/main.log_2020-12-10-09" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pyurl/logs/main.log_2020-12-10-10" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pyurl/logs/receive_connect_result.log_2020-12-08-19" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pyurl/logs/receive_connect_result.log_2020-12-09-13" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pyurl/logs/receive_connect_result.log_2020-12-09-14" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pyurl/logs/receive_connect_result.log_2020-12-09-15" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pyurl/logs/receive_connect_result.log_2020-12-10-09" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pyurl/logs/receive_connect_result.log_2020-12-10-10" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pyurl/logs/receive_performance_result.log_2020-12-08-19" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pyurl/logs/receive_performance_result.log_2020-12-09-13" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pyurl/logs/receive_performance_result.log_2020-12-09-14" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pyurl/logs/receive_performance_result.log_2020-12-09-15" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pyurl/logs/receive_performance_result.log_2020-12-10-09" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pyurl/logs/receive_performance_result.log_2020-12-10-10" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pyurl/logs/receive_task_result.log_2020-12-08-19" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pyurl/logs/receive_task_result.log_2020-12-09-13" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pyurl/logs/receive_task_result.log_2020-12-09-14" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pyurl/logs/receive_task_result.log_2020-12-09-15" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pyurl/logs/receive_task_result.log_2020-12-10-09" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pyurl/logs/receive_task_result.log_2020-12-10-10" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pyurl/logs/search_handler.log_2020-12-09-15" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pyurl/logs/search_handler.log_2020-12-09-16" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pyurl/logs/search_handler.log_2020-12-09-17" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pyurl/logs/search_handler.log_2020-12-10-09" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pyurl/logs/search_handler.log_2020-12-10-10" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pyurl/logs/strategy_handler.log_2020-12-09-15" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pyurl/logs/strategy_handler.log_2020-12-09-16" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pyurl/logs/strategy_handler.log_2020-12-09-17" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pyurl/logs/strategy_handler.log_2020-12-10-09" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pyurl/logs/strategy_handler.log_2020-12-10-10" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pyurl/logs/user_handler.log_2020-12-09-15" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pyurl/logs/user_handler.log_2020-12-09-16" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pyurl/logs/user_handler.log_2020-12-09-17" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pyurl/logs/user_handler.log_2020-12-10-09" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pyurl/logs/user_handler.log_2020-12-10-10" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-learn/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-learn/.idea/libraries/Maven__com_carrotsearch_hppc_0_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-learn/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_cbor_2_9_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-learn/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_smile_2_9_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-learn/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_yaml_2_9_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-learn/.idea/libraries/Maven__com_github_spullara_mustache_java_compiler_0_9_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-learn/.idea/libraries/Maven__com_tdunning_t_digest_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-learn/.idea/libraries/Maven__io_netty_netty_buffer_4_1_53_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-learn/.idea/libraries/Maven__io_netty_netty_codec_4_1_53_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-learn/.idea/libraries/Maven__io_netty_netty_codec_http_4_1_53_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-learn/.idea/libraries/Maven__io_netty_netty_common_4_1_53_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-learn/.idea/libraries/Maven__io_netty_netty_handler_4_1_53_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-learn/.idea/libraries/Maven__io_netty_netty_resolver_4_1_53_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-learn/.idea/libraries/Maven__io_netty_netty_transport_4_1_53_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-learn/.idea/libraries/Maven__net_sf_jopt_simple_jopt_simple_5_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-learn/.idea/libraries/Maven__org_apache_httpcomponents_httpasyncclient_4_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-learn/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_nio_4_4_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-learn/.idea/libraries/Maven__org_apache_lucene_lucene_analyzers_common_7_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-learn/.idea/libraries/Maven__org_apache_lucene_lucene_backward_codecs_7_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-learn/.idea/libraries/Maven__org_apache_lucene_lucene_core_7_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-learn/.idea/libraries/Maven__org_apache_lucene_lucene_grouping_7_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-learn/.idea/libraries/Maven__org_apache_lucene_lucene_highlighter_7_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-learn/.idea/libraries/Maven__org_apache_lucene_lucene_join_7_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-learn/.idea/libraries/Maven__org_apache_lucene_lucene_memory_7_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-learn/.idea/libraries/Maven__org_apache_lucene_lucene_misc_7_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-learn/.idea/libraries/Maven__org_apache_lucene_lucene_queries_7_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-learn/.idea/libraries/Maven__org_apache_lucene_lucene_queryparser_7_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-learn/.idea/libraries/Maven__org_apache_lucene_lucene_sandbox_7_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-learn/.idea/libraries/Maven__org_apache_lucene_lucene_spatial3d_7_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-learn/.idea/libraries/Maven__org_apache_lucene_lucene_spatial_7_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-learn/.idea/libraries/Maven__org_apache_lucene_lucene_spatial_extras_7_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-learn/.idea/libraries/Maven__org_apache_lucene_lucene_suggest_7_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-learn/.idea/libraries/Maven__org_elasticsearch_client_elasticsearch_rest_client_6_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-learn/.idea/libraries/Maven__org_elasticsearch_client_transport_6_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-learn/.idea/libraries/Maven__org_elasticsearch_elasticsearch_6_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-learn/.idea/libraries/Maven__org_elasticsearch_elasticsearch_cli_6_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-learn/.idea/libraries/Maven__org_elasticsearch_elasticsearch_core_6_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-learn/.idea/libraries/Maven__org_elasticsearch_elasticsearch_secure_sm_6_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-learn/.idea/libraries/Maven__org_elasticsearch_elasticsearch_x_content_6_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-learn/.idea/libraries/Maven__org_elasticsearch_jna_4_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-learn/.idea/libraries/Maven__org_elasticsearch_plugin_lang_mustache_client_6_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-learn/.idea/libraries/Maven__org_elasticsearch_plugin_parent_join_client_6_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-learn/.idea/libraries/Maven__org_elasticsearch_plugin_percolator_client_6_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-learn/.idea/libraries/Maven__org_elasticsearch_plugin_rank_eval_client_6_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-learn/.idea/libraries/Maven__org_elasticsearch_plugin_reindex_client_6_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-learn/.idea/libraries/Maven__org_elasticsearch_plugin_transport_netty4_client_6_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-learn/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_elasticsearch_2_1_18_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-learn/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_1_21_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-learn/.idea/libraries/Maven__org_springframework_data_spring_data_elasticsearch_3_1_21_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-learn/echo-elasticsearch/echo-elasticsearch.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-learn/echo-elasticsearch/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-learn/echo-elasticsearch/src/main/java/com/echo/elasticsearch/ElasticSearchApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-learn/echo-elasticsearch/src/main/java/com/echo/elasticsearch/ItemRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-learn/echo-elasticsearch/src/main/java/com/echo/elasticsearch/pojo/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-learn/echo-elasticsearch/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-learn/echo-elasticsearch/src/test/java/com/echo/elasticsearch/test/ElasticSearchTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring/.idea/libraries/Maven__org_springframework_spring_aop_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring/.idea/libraries/Maven__org_springframework_spring_beans_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring/.idea/libraries/Maven__org_springframework_spring_context_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring/.idea/libraries/Maven__org_springframework_spring_core_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring/.idea/libraries/Maven__org_springframework_spring_expression_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring/.idea/spring.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring/echo-spring-aop/echo-spring-aop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring/echo-spring-aop/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring/echo-spring-aop/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring/echo-spring-ioc/echo-spring-ioc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring/echo-spring-ioc/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring/echo-spring-ioc/src/main/java/com/echo/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring/echo-spring-ioc/src/main/java/com/echo/dao/impl/IUserDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring/echo-spring-ioc/src/main/java/com/echo/demo/UserDaoDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring/echo-spring-ioc/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring/echo-spring-ioc/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test2/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test2/src/com/dae/result/beans/DNSResolverType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test2/src/com/dae/result/handler/DealResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test2/src/com/dae/result/handler/FileEnter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test2/src/com/dae/result/handler/TransferNetInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test2/src/com/dae/result/utils/JDBCUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test2/src/com/dae/result/utils/JedisPoolUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test2/src/com/dae/result/utils/LogUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../test2/test2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vuejs资料和代码/Day 01/Vue源码/vue-2.5.21/.idea/vue-2.5.21.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vuejs资料和代码/Day 01/课堂代码/LearnVuejs01/.idea/LearnVuejs01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vuejs资料和代码/Day 02/课堂代码/LearnVuejs02/.idea/LearnVuejs01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vuejs资料和代码/Day 02/预习代码/LearnVuejs Day 02/.idea/LearnVuejs Day 01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vuejs资料和代码/Day 03/课堂代码/LearnVuejs03/.idea/LearnVuejs01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vuejs资料和代码/Day 03/预习代码/LearnVuejs Day 03/.idea/LearnVuejs Day 01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vuejs资料和代码/Day 04/课堂代码4/LearnVuejs04-v2/.idea/LearnVuejs04-v2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vuejs资料和代码/Day 04/课堂代码4/LearnVuejs04/.idea/LearnVuejs01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vuejs资料和代码/Day 05/课堂代码5/LearnVuejs05-v2/.idea/LearnVuejs04-v2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vuejs资料和代码/Day 06/上课代码/LearnVuejs06/.idea/LearnVuejs06.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vuejs资料和代码/Day 07/上课代码/LearnVuejs07/.idea/LearnVuejs07.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vuejs资料和代码/Day 08/上课代码/LearnVuejs08/.idea/LearnVuejs08.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../$RECYCLE.BIN/S-1-5-21-2275482059-2226334712-2776239164-1001/$RKGSCEQ/code/.idea/code.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-boot-learn/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring-boot-learn/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-boot-learn/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring-boot-learn/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-boot-learn/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring-boot-learn/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-boot-learn/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring-boot-learn/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-boot-learn/echo-eureka/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring-boot-learn/echo-eureka/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-boot-learn/echo-eureka/src/main/java/com/echo/eureka/EchoEurekaApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring-boot-learn/echo-eureka/src/main/java/com/echo/eureka/EchoEurekaApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-boot-learn/echo-eureka/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring-boot-learn/echo-eureka/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-boot-learn/echo-service-consumer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring-boot-learn/echo-service-consumer/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-boot-learn/echo-service-consumer/src/main/java/com/echo/service/EchoServiceConsumerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring-boot-learn/echo-service-consumer/src/main/java/com/echo/service/EchoServiceConsumerApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-boot-learn/echo-service-consumer/src/main/java/com/echo/service/client/UserClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring-boot-learn/echo-service-consumer/src/main/java/com/echo/service/client/UserClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-boot-learn/echo-service-consumer/src/main/java/com/echo/service/client/UserClientFallback.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring-boot-learn/echo-service-consumer/src/main/java/com/echo/service/client/UserClientFallback.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-boot-learn/echo-service-consumer/src/main/java/com/echo/service/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring-boot-learn/echo-service-consumer/src/main/java/com/echo/service/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-boot-learn/echo-service-consumer/src/main/java/com/echo/service/pojo/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring-boot-learn/echo-service-consumer/src/main/java/com/echo/service/pojo/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-boot-learn/echo-service-consumer/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring-boot-learn/echo-service-consumer/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-boot-learn/echo-service-provider/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring-boot-learn/echo-service-provider/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-boot-learn/echo-service-provider/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring-boot-learn/echo-service-provider/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-boot-learn/echo-service-provider/src/main/java/com/echo/service/EchoServiceProviderApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring-boot-learn/echo-service-provider/src/main/java/com/echo/service/EchoServiceProviderApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-boot-learn/echo-service-provider/src/main/java/com/echo/service/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring-boot-learn/echo-service-provider/src/main/java/com/echo/service/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-boot-learn/echo-service-provider/src/main/java/com/echo/service/mapper/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring-boot-learn/echo-service-provider/src/main/java/com/echo/service/mapper/UserMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-boot-learn/echo-service-provider/src/main/java/com/echo/service/pojo/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring-boot-learn/echo-service-provider/src/main/java/com/echo/service/pojo/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-boot-learn/echo-service-provider/src/main/java/com/echo/service/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring-boot-learn/echo-service-provider/src/main/java/com/echo/service/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-boot-learn/echo-service-provider/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring-boot-learn/echo-service-provider/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-boot-learn/echo-service-provider/src/test/java/com/echo/service/EchoServiceConsumerApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring-boot-learn/echo-service-provider/src/test/java/com/echo/service/EchoServiceConsumerApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-boot-learn/echo-service-provider/src/test/java/com/echo/service/EchoServiceProviderApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring-boot-learn/echo-service-provider/src/test/java/com/echo/service/EchoServiceProviderApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-boot-learn/echo-zuul.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring-boot-learn/echo-zuul.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-boot-learn/echo-zuul/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring-boot-learn/echo-zuul/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-boot-learn/echo-zuul/src/main/java/com/echo/zuul/EchoZuulApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring-boot-learn/echo-zuul/src/main/java/com/echo/zuul/EchoZuulApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-boot-learn/echo-zuul/src/main/java/com/echo/zuul/filter/LoginFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring-boot-learn/echo-zuul/src/main/java/com/echo/zuul/filter/LoginFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-boot-learn/echo-zuul/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring-boot-learn/echo-zuul/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-boot-learn/echo-zuul/src/test/java/com/echo/zuul/EchoZuulApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring-boot-learn/echo-zuul/src/test/java/com/echo/zuul/EchoZuulApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tsp/src/main/java/com/echo/tsp/TspApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../tsp/src/main/java/com/echo/tsp/TspApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tsp/src/main/java/com/echo/tsp/comtroller/CarInfoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../tsp/src/main/java/com/echo/tsp/comtroller/CarInfoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tsp/src/main/java/com/echo/tsp/comtroller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../tsp/src/main/java/com/echo/tsp/comtroller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tsp/src/main/java/com/echo/tsp/comtroller/WebSocketServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../tsp/src/main/java/com/echo/tsp/comtroller/WebSocketServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tsp/src/main/java/com/echo/tsp/config/WebMvcConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../tsp/src/main/java/com/echo/tsp/config/WebMvcConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tsp/src/main/java/com/echo/tsp/config/WebSocketConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../tsp/src/main/java/com/echo/tsp/config/WebSocketConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tsp/src/main/java/com/echo/tsp/interceptor/MyInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../tsp/src/main/java/com/echo/tsp/interceptor/MyInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tsp/src/main/java/com/echo/tsp/mapper/CarInfoMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../tsp/src/main/java/com/echo/tsp/mapper/CarInfoMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tsp/src/main/java/com/echo/tsp/mapper/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../tsp/src/main/java/com/echo/tsp/mapper/UserMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tsp/src/main/java/com/echo/tsp/pojo/CarInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../tsp/src/main/java/com/echo/tsp/pojo/CarInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tsp/src/main/java/com/echo/tsp/pojo/Log.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../tsp/src/main/java/com/echo/tsp/pojo/Log.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tsp/src/main/java/com/echo/tsp/pojo/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../tsp/src/main/java/com/echo/tsp/pojo/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tsp/src/main/java/com/echo/tsp/service/CarInfoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../tsp/src/main/java/com/echo/tsp/service/CarInfoService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tsp/src/main/java/com/echo/tsp/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../tsp/src/main/java/com/echo/tsp/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tsp/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../tsp/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tsp/src/main/resources/static/js/car_panel.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../tsp/src/main/resources/static/js/car_panel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tsp/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../tsp/src/main/resources/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tsp/src/main/resources/templates/log.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../tsp/src/main/resources/templates/log.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tsp/src/main/resources/templates/notfound.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../tsp/src/main/resources/templates/notfound.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tsp/src/main/resources/templates/server.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../tsp/src/main/resources/templates/server.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tsp/src/main/resources/templates/tsp.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../tsp/src/main/resources/templates/tsp.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Maven_Repository" />
+        <option name="mavenHome" value="D:\apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1npjYvhvnROAOaZjwmQ5CM7LocM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SpringMvcStudy" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.29425287" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.echo.service.impl" />
+      <recent name="com.echo.service" />
+      <recent name="com.echo.controller" />
+      <recent name="com.echo.dao" />
+      <recent name="com.echo.pojo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\SSMReview\ssmComplete\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="tomcat-8.5.61" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="tomcat-8.5.61" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="1.8" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="ssmComplete:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_ssmComplete" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="55266" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="JRebel Debug">
+        <option name="DEBUG_PORT" value="55267" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="JRebel Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="JRebel Executor">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="ssmComplete:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f05e4565-6df7-44b5-884b-3a20404acb6c" name="Default Changelist" comment="" />
+      <created>1612093977713</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612093977713</updated>
+      <workItem from="1612093979123" duration="9633000" />
+      <workItem from="1612143784456" duration="88000" />
+      <workItem from="1612151700075" duration="1308000" />
+      <workItem from="1612171394199" duration="943000" />
+      <workItem from="1612176258624" duration="7941000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="222" y="71" width="1092" height="729" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1612094068454">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="222" y="71" width="1092" height="729" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1612094068454" />
+    <state x="573" y="132" key="#com.intellij.ide.util.MemberChooser" timestamp="1612179981297">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="573" y="132" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1612179981297" />
+    <state x="385" y="94" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1612094035337">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="385" y="94" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.834@0.0.1536.834" timestamp="1612094035337" />
+    <state x="305" y="179" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1612178038817">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="305" y="179" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1536.834@0.0.1536.834" timestamp="1612178038817" />
+    <state x="548" y="171" key="FileChooserDialogImpl" timestamp="1612185481134">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="548" y="171" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1612185481134" />
+    <state width="1235" height="322" key="GridCell.Tab.0.bottom" timestamp="1612191405913">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1235" height="322" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1612191405913" />
+    <state width="1235" height="322" key="GridCell.Tab.0.center" timestamp="1612191405912">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1235" height="322" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1612191405912" />
+    <state width="1235" height="322" key="GridCell.Tab.0.left" timestamp="1612191405912">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1235" height="322" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1612191405912" />
+    <state width="1235" height="322" key="GridCell.Tab.0.right" timestamp="1612191405912">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1235" height="322" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1612191405912" />
+    <state width="1235" height="322" key="GridCell.Tab.1.bottom" timestamp="1612191405913">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1235" height="322" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1612191405913" />
+    <state width="1235" height="322" key="GridCell.Tab.1.center" timestamp="1612191405913">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1235" height="322" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1612191405913" />
+    <state width="1235" height="322" key="GridCell.Tab.1.left" timestamp="1612191405913">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1235" height="322" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1612191405913" />
+    <state width="1235" height="322" key="GridCell.Tab.1.right" timestamp="1612191405913">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1235" height="322" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1612191405913" />
+    <state width="1235" height="322" key="GridCell.Tab.2.bottom" timestamp="1612191405913">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1235" height="322" key="GridCell.Tab.2.bottom/0.0.1536.834@0.0.1536.834" timestamp="1612191405913" />
+    <state width="1235" height="322" key="GridCell.Tab.2.center" timestamp="1612191405913">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1235" height="322" key="GridCell.Tab.2.center/0.0.1536.834@0.0.1536.834" timestamp="1612191405913" />
+    <state width="1235" height="322" key="GridCell.Tab.2.left" timestamp="1612191405913">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1235" height="322" key="GridCell.Tab.2.left/0.0.1536.834@0.0.1536.834" timestamp="1612191405913" />
+    <state width="1235" height="322" key="GridCell.Tab.2.right" timestamp="1612191405913">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1235" height="322" key="GridCell.Tab.2.right/0.0.1536.834@0.0.1536.834" timestamp="1612191405913" />
+    <state x="248" y="0" key="SettingsEditor" timestamp="1612178043202">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="248" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1612178043202" />
+    <state x="448" y="99" key="spring file set editor" timestamp="1612094628532">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="448" y="99" key="spring file set editor/0.0.1536.834@0.0.1536.834" timestamp="1612094628532" />
+  </component>
+</project>

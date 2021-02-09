@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+<!--    SpringMvc配置文件-->
+<!--    1.添加处理起映射器-->
+    <bean class="org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping" />
+<!--    2.添加处理器适配器-->
+    <bean class="org.springframework.web.servlet.mvc.SimpleControllerHandlerAdapter" />
+<!--    3.添加视图解析器-->
+<!--    视图解析器所作的工作：处理DispatcherServlet回传给它的ModelAndView
+        1):获取ModelAndView中的数据
+        2):解析ModelAndView的视图名字
+        3):拼接视图名字，并找到对应的视图
+        4):将数据渲染到视图上
+-->
+    <bean class="org.springframework.web.servlet.view.InternalResourceViewResolver" id="internalResourceViewResolver">
+<!--        前缀-->
+        <property name="prefix" value="/WEB-INF/jsp/" />
+<!--        后缀-->
+        <property name="suffix" value=".jsp"/>
+<!--        这个前缀和后缀是指定转发的路径的前缀和后缀。
+            在传统的Servlet中 会有以下方法req.getRequestDispatcher("/WEB-INF/jsp/test.jsp").forward(req,resp);
+            在这里指定了前缀和后缀之后，就可以只写test而不用写全路径
+            -->
+    </bean>
+<!--    将Controller注册到Bean容器中，访问hello时，会跳到这个Controller-->
+    <bean id="/hello" class="com.echo.controller.HelloController" />
+</beans>

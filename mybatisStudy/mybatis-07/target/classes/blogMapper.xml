@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.echo.mapper.BlogMapper">
+    <insert id="addBlog" parameterType="com.echo.pojo.Blog">
+        insert into blog (id,title,author,create_time,views)
+        values (#{id},#{title},#{author},#{createTime},#{views})
+    </insert>
+
+    <!-- 如果有title且title不为空，则拼接title，如果有author，且不为空则拼接author-->
+    <!-- 可以用在根据不同字段搜索 -->
+    <select id="queryBlogIf" parameterType="map" resultType="com.echo.pojo.Blog">
+        select * from blog
+        <!-- 使用where标签，而不是where子句能够避免 出现where and 的情况-->
+        <where>
+            <if test="title != null">
+                and title = #{title}
+            </if>
+            <if test="author != null">
+                and author = #{author}
+            </if>
+        </where>
+    </select>
+<!--    choose的效果与switch case类似。逐个匹配，遇到满足条件的就break-->
+    <select id="queryByChoose" resultType="com.echo.pojo.Blog">
+        select * from blog
+        <where>
+            <choose>
+                <when test="title != null">
+                    title = #{title}
+                </when>
+                <when test="author != null">
+                    and author = #{author}
+                </when>
+                <otherwise>
+                    and views = #{views}
+                </otherwise>
+            </choose>
+        </where>
+    </select>
+
+    <update id="updateBlog" parameterType="map">
+        update blog
+        <!-- set标签避免了title =#{title}, where 的情况 -->
+        <set>
+            <if test="title != null">
+                title = #{title},
+            </if>
+            <if test="author != null">
+                author = #{author}
+            </if>
+        </set>
+        where id = #{id}
+    </update>
+
+    <!-- sql片段,将重复使用的sql进行封装，封装为片段后进行使用 -->
+    <!-- 注意事项：最好基于单表来定义SQL片段 -->
+    <!-- sql片段最好不要存在where标签 -->
+
+    <sql id="sql-title-author">
+        <if test="title != null">
+            and title = #{title}
+        </if>
+        <if test="author != null">
+            and author = #{author}
+        </if>
+    </sql>
+    <select id="queryBlogIf2" parameterType="map" resultType="com.echo.pojo.Blog">
+        select * from blog
+        <!-- 使用where标签，而不是where子句能够避免 出现where and 的情况-->
+        <where>
+            <include refid="sql-title-author"></include>
+        </where>
+    </select>
+
+    <!--
+        select * from blog where 1=1 and (id=1 or id=2 or id=3)
+        现在传递一个万能的map，这个map中可以存在一个集合
+    -->
+    <select id="queryBlogByForEach" parameterType="map" resultType="com.echo.pojo.Blog">
+        select * from blog
+        <where>
+            <foreach collection="ids" item="id" open="and (" close=")" separator="or">
+                id = #{id}
+            </foreach>
+        </where>
+    </select>
+</mapper>

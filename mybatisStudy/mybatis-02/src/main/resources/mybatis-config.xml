@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<!--mybatis核心配置文件,连接数据库-->
+<configuration>
+    
+    <!-- 引入外部配置文件,也可以在外部配置文件写一半，这里写一半-->
+<!--    当外部配置文件和此处有同一个字段时，优先使用外部配置文件-->
+    <properties resource="db.properties">
+        <property name="username" value="root"/>
+        <property name="password" value="s814466057"/>
+    </properties>
+
+<!--    日志配置-->
+    <settings>
+        <!-- 标准日志工厂 -->
+<!--        <setting name="logImpl" value="STDOUT_LOGGING"/>-->
+        <!-- 使用log4j -->
+        <setting name="logImpl" value="LOG4J"/>
+    </settings>
+    
+    
+    <typeAliases>
+<!--        为com.echo.pojo.User起别名为User-->
+        <typeAlias type="com.echo.pojo.User" alias="User"></typeAlias>
+    </typeAliases>
+<!--    <typeAliases>-->
+<!--&lt;!&ndash;        该包下所有的实体类以其类名小写作为别名&ndash;&gt;-->
+<!--        <package name="con.echo.pojo"/>-->
+<!--    </typeAliases>-->
+    
+    <environments default="development">
+
+        <environment id="development">
+            <transactionManager type="JDBC"/>
+            <dataSource type="POOLED">  <!-- 有池 -->
+                <property name="driver" value="${driver}"/>
+                <property name="url" value="${url}"/>
+                <property name="username" value="${username}"/>
+                <property name="password" value="${password}"/>
+            </dataSource>
+        </environment>
+
+    </environments>
+<!--    每一个mapper对象都要在mybatis核心配置文件进行注册-->
+    <mappers>
+        <mapper resource="userMapper.xml"></mapper>
+    </mappers>
+</configuration>

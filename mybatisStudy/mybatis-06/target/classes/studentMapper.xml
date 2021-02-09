@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<!--mybatis核心配置文件,连接数据库-->
+<mapper namespace="com.echo.mapper.StudentMapper">
+    <!-- 1.按照查询嵌套处理 -->
+    <select id="getStudent" resultMap="studentTeacher">
+        select * from student;
+    </select>
+<!--    因为查出来最后肯定是学生，因此要将type设置为Student-->
+    <resultMap id="studentTeacher" type="com.echo.pojo.Student">
+        <result property="id" column="id"></result>
+        <result property="name" column="name"></result>
+        <!-- 复杂的属性需要单独处理，对象要使用association,集合要使用collection-->
+<!--        嵌套一层select进行处理-->
+        <association property="teacher" column="tid" javaType="com.echo.pojo.Teacher" select="getTeacher"></association>
+    </resultMap>
+    <select id="getTeacher" resultType="com.echo.pojo.Teacher">
+        select * from teacher where id = #{id}
+    </select>
+
+    <!-- 按照结果嵌套处理 -->
+    <select id="getStudent2" resultMap="studentTeacher2">
+        select s.id as sid,s.name as sname,t.name as tname
+        from student as s,teacher as t
+        where s.tid = t.id
+    </select>
+    <resultMap id="studentTeacher2" type="com.echo.pojo.Student">
+        <result property="id" column="sid"></result>
+        <result property="name" column="sname"></result>
+        <association property="teacher" javaType="com.echo.pojo.Teacher">
+            <result property="name" column="tname"></result>
+        </association>
+    </resultMap>
+
+</mapper>

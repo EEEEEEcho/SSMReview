@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+<!--    <bean id="user" class="com.echo.pojo.User">-->
+<!--        <property name="name" value="Spring"></property>-->
+<!--    </bean>-->
+<!--    1.构造函数有参下标构造-->
+    <bean id="user" class="com.echo.pojo.User">
+        <constructor-arg index="0" value="Spring"></constructor-arg>
+    </bean>
+<!--    2.构造函数有参类型构造,不建议-->
+    <bean id="user2" class="com.echo.pojo.User">
+        <constructor-arg type="java.lang.String" value="Echo"></constructor-arg>
+    </bean>
+<!--    3.构造函数有参参数名构造-->
+    <bean id="user3" class="com.echo.pojo.User">
+        <constructor-arg name="name" value="Hello world"></constructor-arg>
+    </bean>
+<!--    给bean起个别名-->
+    <alias name="user3" alias="echo"></alias>
+<!--    name也可以起别名-->
+    <bean id="user4" class="com.echo.pojo.User" name="echo4"></bean>
+<!--    使用import将其他的beans.xml合并过来-->
+    <import resource="beans1.xml"></import>
+    <import resource="beans2.xml"></import>
+</beans>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<!--mybatis核心配置文件,连接数据库-->
+<mapper namespace="com.echo.mapper.TaskMapper">
+    <insert id="insertTask" parameterType="Task">
+        insert into task(id,serial,name,type,files,drug_db,path,cmd,process_id,result,result_dir,
+        submit_time,start_time,finish_time,update_time,state,isdelete)
+        values
+        (
+        <if test="id != null">
+            #{id},
+        </if>
+        <if test="serial != null">
+            #{serial},
+        </if>
+        <if test="name != null">
+            #{name},
+        </if>
+        <if test="type != null">
+            #{type},
+        </if>
+        <if test="files != null">
+            #{files},
+        </if>
+        <if test="drugDb != null">
+            #{drugDb},
+        </if>
+        <if test="path != null">
+            #{path},
+        </if>
+        <if test="cmd != null">
+            #{cmd},
+        </if>
+        <if test="processId != null">
+            #{processId},
+        </if>
+        <if test="result != null">
+            #{result},
+        </if>
+        <if test="resultDir != null">
+            #{resultDir},
+        </if>
+        <if test="submitTime != null">
+            #{submitTime},
+        </if>
+        <if test="startTime != null">
+            #{startTime},
+        </if>
+        <if test="finishTime != null">
+            #{finishTime},
+        </if>
+        <if test="updateTime != null">
+            #{updateTime},
+        </if>
+        <if test="state != null">
+            #{state},
+        </if>
+        <if test="isdelete != null">
+            #{isdelete}
+        </if>
+        );
+    </insert>
+
+    <update id="startTask" parameterType="Task">
+        update task
+        <set>
+            <if test="finishTime != null">
+                finish_time = #{finishTime},
+            </if>
+            <if test="result != null">
+                result = #{result},
+            </if>
+            <if test="state != null">
+                state = #{state}
+            </if>
+            where serial = #{serial}
+        </set>
+    </update>
+    <update id="finishTask" parameterType="Task">
+        update task
+        <set>
+            <if test="finishTime != null">
+                finish_time = #{finishTime},
+            </if>
+            <if test="result != null">
+                result = #{result},
+            </if>
+            <if test="state != null">
+                state = #{state}
+            </if>
+        </set>
+        where serial = #{serial}
+    </update>
+    
+    <select id="queryListByPage" parameterType="map" resultType="Task">
+        select * from task where type = #{type} and isdelete = #{isdelete} order by id limit #{offset},#{pagesize}
+    </select>
+</mapper>
